@@ -1,8 +1,9 @@
-Projeto web services com Spring Boot e JPA / Hibernate 
+<h1>Projeto web services com Spring Boot e JPA / Hibernate</h1> 
 
-Curso Java COMPLETO - Udemy
+<h3>Curso Java COMPLETO - Udemy</h3>Professor Nelio Alves
 
-Objetivos 
+<h2>Objetivos</h2> 
+
 - Criar projeto Spring Boot Java 
 - Implementar modelo de domínio 
 - Estruturar camadas lógicas: resource, service, repository 
