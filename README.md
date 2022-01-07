@@ -12,4 +12,4 @@
 - CRUD - Create, Retrieve, Update, Delete 
 - Tratamento de exceções
 <hr>
-<a href="https://course-javasb-2-udemy.herokuapp.com/">Heroku do projeto</a>
+<a href="https://course-javasb-2-udemy.herokuapp.com/">Projeto em deploy</a>
